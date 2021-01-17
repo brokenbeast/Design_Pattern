@@ -1,7 +1,9 @@
 from abc import ABCMeta, abstractmethod
 # haha
+# second time change it
 
-#Main add a comment
+
+# Main add a comment
 
 class Strategy(metaclass=ABCMeta):
     @abstractmethod
